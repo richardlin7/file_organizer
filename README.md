@@ -21,12 +21,12 @@ file_organizer/
 
 ## Requirements
 
-# For Dev:
+### For Dev:
 
 - Python 3.7+
 - No external dependencies (uses only standard library)
 
-# For Demo:
+### For Demo:
 
 - download file_organizer.exe in dist folder
 
