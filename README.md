@@ -19,16 +19,10 @@ file_organizer/
 ├── organizer.py    # File organization logic
 ```
 
-## Requirements
-
-### For Dev:
+## Requirements (for Developers)
 
 - Python 3.7+
 - No external dependencies (uses only standard library)
-
-### For Demo:
-
-- download file_organizer.exe in dist folder
 
 ## How to Demo
 
